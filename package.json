@@ -1,0 +1,12 @@
+{
+  "name": "friday_live_coding",
+  "version": "1.0.0",
+  "description": "friday live coding sass webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style":"sass --watch sass/style.scss sass/style.css"
+  },
+  "author": "Diatchik",
+  "license": "ISC"
+}
